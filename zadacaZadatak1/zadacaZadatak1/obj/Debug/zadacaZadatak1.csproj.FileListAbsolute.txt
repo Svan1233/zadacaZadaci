@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\zadacaZadatak1\zadacaZadatak1\obj\Debug\zadacaZadatak1.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\zadacaZadatak1\zadacaZadatak1\bin\Debug\zadacaZadatak1.exe.config
+C:\Users\Korisnik\source\repos\zadacaZadatak1\zadacaZadatak1\bin\Debug\zadacaZadatak1.exe
+C:\Users\Korisnik\source\repos\zadacaZadatak1\zadacaZadatak1\bin\Debug\zadacaZadatak1.pdb
+C:\Users\Korisnik\source\repos\zadacaZadatak1\zadacaZadatak1\obj\Debug\zadacaZadatak1.exe
+C:\Users\Korisnik\source\repos\zadacaZadatak1\zadacaZadatak1\obj\Debug\zadacaZadatak1.pdb
